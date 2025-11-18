@@ -1,4 +1,4 @@
-abstractive_summarization.py   # KoBART 추상 요약 모델
+abstractive_summarization.py   # KoBART 추상 요약 모델  /n
 extractive_summarization.py    # KoBERT 추출 요약 모델
 train_summarization_full.py    # 요약 모델 학습 스크립트
 
